@@ -6,6 +6,7 @@ A short presentation of the approach to the project can be found in the file "Pr
 
 This repository contains a ROS 2 Jazzy-based autonomous drone exploration system designed for navigating and mapping complex cave environments using OctoMap. The system integrates high-level decision-making, frontier-based exploration, reactive trajectory generation, and computer vision-based perception.
 
+![drone scheme](DroneForCave.png)
 ---
 
 ## Prerequisites
