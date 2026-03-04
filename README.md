@@ -72,7 +72,7 @@ colcon build
 ---
 ## Simulator Setup (Unity)
 
-Two simulator versions are available:
+Two simulator versions are available [here](https://syncandshare.lrz.de/getlink/fi7Vw11aA5WwyMBRPVQYun/):
 
 - **Low-Quality (LQ)** – Recommended for less powerful machines  
 - **High-Quality (HQ)** – Better visuals
